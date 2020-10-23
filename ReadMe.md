@@ -26,3 +26,10 @@ _**Both bold and Italic**_
 ### Checklist
 
 [x] Done
+
+## Blockquote
+
+As we all say:
+
+> We should always fight to make our lives better
+> Fight for what we love
