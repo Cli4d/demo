@@ -14,7 +14,7 @@
 
 # Image
 
-![Random photo](https://source.unsplash.com/daily)
+![Random photo](https://source.unsplash.com/collection/190727/100x100)
 
 ```Javascript
 var keyword = 123;
